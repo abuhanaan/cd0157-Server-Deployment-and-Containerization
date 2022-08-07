@@ -87,4 +87,4 @@ Completing the project involves several steps:
 
 For more detail about each of these steps, see the project lesson. <br>
 
-Trying to trigger a build
+Trying to trigger a new build
